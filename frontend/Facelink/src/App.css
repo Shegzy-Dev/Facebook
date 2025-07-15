@@ -1,0 +1,39 @@
+.navIcons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navIcons .nav-button {
+  border-radius: 10px;
+  width: 120px;
+  height: 45px;
+  font-size: 26px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navIcons .nav-button:hover {
+  background: #33333321;
+}
+
+.navIcons .nav-button-right {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  font-size: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 5px;
+}
+
+.create {
+  border-radius: 10px;
+  width: 30%;
+  justify-content: center;
+}
+
+.create:hover {
+  background: #33333321;
+}

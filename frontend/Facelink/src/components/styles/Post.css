@@ -1,0 +1,28 @@
+.interact-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 30%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.interact-btn:hover {
+  background: #3332;
+}
+
+.ellipsis,
+.cancel {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ellipsis:hover,
+.cancel:hover {
+  background: #3332;
+}

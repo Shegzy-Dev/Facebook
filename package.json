@@ -1,0 +1,24 @@
+{
+  "name": "facelink--a-facebook-clone",
+  "version": "1.0.0",
+  "description": "![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\r ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)\r ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)\r ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)\r ![Responsive](https://img.shields.io/badge/Responsive-Yes-blue?style=for-the-badge)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shegzy-Dev/Facelink--A-Facebook-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shegzy-Dev/Facelink--A-Facebook-clone/issues"
+  },
+  "homepage": "https://github.com/Shegzy-Dev/Facelink--A-Facebook-clone#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
+}

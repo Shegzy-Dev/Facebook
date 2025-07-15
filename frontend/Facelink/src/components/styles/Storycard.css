@@ -1,0 +1,19 @@
+.story-card {
+  border-radius: 10px;
+  width: 130px;
+  height: 210px;
+  background: whitesmoke;
+  margin: 3px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  padding: 15px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 45%;
+  border: 4px solid black;
+}
